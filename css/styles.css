@@ -5,11 +5,16 @@ h1 {
 
 img.photo {
   float: left;
+  padding: 4px;
 }
 
 .columns {
   width: 300px;
   float: left;
+  margin:12px;
+  border:2px solid green;
+  padding: 4px;
+  background-color: orange;
 }
 
 .sidebar {
